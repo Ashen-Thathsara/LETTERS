@@ -342,7 +342,7 @@ a img.aligncenter {
 }
 
 .email-box a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 .email-box a i {
@@ -359,7 +359,7 @@ a img.aligncenter {
 }
 
 .phone-box a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 .phone-box a i {
@@ -381,7 +381,7 @@ a img.aligncenter {
 }
 
 .social-box ul li a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 
@@ -469,7 +469,7 @@ a img.aligncenter {
     color: #ffffff;
     box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
     border-radius: 25px 0px 25px 0px;
-    background: #fd6802;
+    background: #1E90FF; /*-----*/
 }
 
 .header_style_01 .navbar-default .navbar-nav>li:hover a,
@@ -477,7 +477,7 @@ a img.aligncenter {
     color: #ffffff;
     box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
     border-radius: 25px 0px 25px 0px;
-    background: #fd6802;
+    background: #1E90FF; /*-----*/
 }
 
 .header_style_01 .navbar-right>li {
@@ -568,7 +568,7 @@ li.social-links a {
 }
 
 .slide-text h1 span {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 .slide-text h2 {
@@ -595,7 +595,7 @@ li.social-links a {
 
 .slider-wrapper .owl-nav .owl-prev:hover,
 .slider-wrapper .owl-nav .owl-next:hover {
-    background: #fd6802;
+    background: #1E90FF; /*-----*/
 }
 
 .slider-wrapper .owl-nav .owl-prev {
@@ -856,7 +856,7 @@ li.social-links a {
 .portfolio-filter ul li .btn-dark {
     box-shadow: none;
     background-color: transparent;
-    border: 2px solid #fd6802 !important;
+    border: 2px solid #1E90FF !important;
     color: #393939;
     font-weight: 500;
     font-size: 14px;
@@ -910,7 +910,7 @@ li.social-links a {
 }
 
 .da-thumbs .pitem a div i {
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/;
     position: absolute;
     color: #ffffff !important;
     bottom: 0;
@@ -942,7 +942,7 @@ li.social-links a {
 }
 
 .desc h3 i {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
@@ -1229,7 +1229,7 @@ li.social-links a {
     top: -7px;
     left: -7px;
     padding: 7px;
-    box-shadow: 0 0 0 2px #fcbf02;
+    box-shadow: 0 0 0 2px #1520A6;
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -webkit-transform: scale(.8);
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -1294,22 +1294,26 @@ li.social-links a {
     font-weight: 600;
     letter-spacing: 0.5px;
     font-size: 15px;
-    color: #999;
+    color:#1E90FF;
 }
 
 .message-box h2 {
     font-size: 28px;
-    font-weight: 500;
+    font-weight: bold;
     padding: 0 0 10px;
     margin: 0;
     line-height: 62px;
     margin-top: 0;
     text-transform: none;
+    color: #000000;
 }
 
 .message-box p {
     margin-bottom: 20px;
+    color:#000000;
 }
+
+
 
 .message-box .lead {
     padding-top: 10px;
@@ -1318,6 +1322,9 @@ li.social-links a {
     color: #999;
     padding-bottom: 0;
 }
+
+.message-box 
+
 
 .post-media {
     position: relative;
@@ -1340,7 +1347,7 @@ li.social-links a {
 }
 
 .hoverbutton {
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/;
     position: absolute;
     color: #ffffff !important;
     top: 48%;
@@ -1572,7 +1579,7 @@ hr.invis1 {
     border-radius: 25px 0px 25px 0px;
     font-size: 26px;
     color: #ffffff;
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -1583,7 +1590,7 @@ hr.invis1 {
 
 .features-right li i:hover,
 .features-left li i:hover {
-    background: #fcbf02;
+    background: #1520A6;
 }
 
 #features i img {
@@ -1666,7 +1673,7 @@ hr.invis1 {
 
 .has-error .bootstrap-select .dropdown-toggle,
 .error .bootstrap-select .dropdown-toggle {
-    border-color: #b94a48;
+    border-color: #1520A6;
 }
 
 .bootstrap-select.fit-width {
@@ -2113,7 +2120,7 @@ select.mobile-device {
 
 .footer-links a:hover,
 .footer a:hover {
-    color: #fd6802 !important;
+    color: #1E90FF !important;
 }
 
 .footer-links li {
@@ -2190,7 +2197,7 @@ select.mobile-device {
 }
 
 .footer-distributed .footer-company-name a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 
@@ -2300,11 +2307,11 @@ select.mobile-device {
 }
 
 .dmtop:hover {
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/
 }
 
 .icon_wrap {
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/
     width: 100px;
     height: 100px;
     display: block;
@@ -2320,10 +2327,10 @@ select.mobile-device {
 .stat-wrap h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #fcbf02;
+    color: #1520A6;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2332,7 +2339,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 700;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
@@ -2342,7 +2349,7 @@ select.mobile-device {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #fd6802;
+    background: #1E90FF; /*-----*/
     z-index: 11000;
     position: fixed;
     display: block;
@@ -2902,9 +2909,9 @@ select.mobile-device {
 .btn-light {
     padding: 13px 40px;
     font-size: 18px;
-    border: 2px solid #fd6802;
+    border: 2px solid #1E90FF; /*-----*/
     color: #ffffff;
-    background-color: #fd6802;
+    background-color: #1E90FF; /*-----*/
 }
 
 .btn-dark {
@@ -2917,7 +2924,7 @@ select.mobile-device {
 
 .btn-light:hover,
 .btn-light:focus {
-    border-color: #fd6802;
+    border-color: #1E90FF; /*-----*/
     color: rgba(255, 255, 255);
     background: #393939;
 }
@@ -3007,7 +3014,7 @@ select.mobile-device {
 }
 
 .banner h2::after {
-    background: #fd6802;
+    background: #1E90FF; /*-----*/
     content: "";
     height: 35px;
     left: -15px;
@@ -3031,11 +3038,11 @@ select.mobile-device {
 }
 
 .page-title-link li a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 .page-title-link li::after {
-    background: #fcbf02;
+    background: #1520A6;
     bottom: 8px;
     content: "";
     height: 2px;
@@ -3080,7 +3087,7 @@ select.mobile-device {
 }
 
 .about-text h3 a:hover {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 .about-item:hover .about-icon {
@@ -3089,14 +3096,14 @@ select.mobile-device {
 }
 
 .about-item:hover .about-icon span {
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
     transition: all 1s ease-in-out;
 }
 
 
 
 .portfolio-filter ul li .btn-dark.active {
-    background: #fcbf02;
+    background: #1520A6;
     color: #ffffff;
 }
 
@@ -3111,9 +3118,9 @@ select.mobile-device {
 
 
 :root {
-    --pricingTable-yellow: #fd6802;
-    --pricingTable-purple: #fd6802;
-    --pricingTable-blue: #fd6802;
+    --pricingTable-yellow: #1E90FF; /*-----*/
+    --pricingTable-purple: #1E90FF; /*-----*/
+    --pricingTable-blue: #1E90FF; /*-----*/
 }
 
 .pricingTable {
@@ -3331,7 +3338,7 @@ select.mobile-device {
 
 .pricingTable .pricing-content li.disable:before {
     content: "\e95f";
-    background: #fe6c6c;
+    background: #1E90FF; /*-----*/
 }
 
 .pricingTable .pricingTable-signup {
@@ -3503,7 +3510,7 @@ select.mobile-device {
 .address-item h3 {
     font-size: 28px;
     font-weight: 600;
-    color: #fd6802;
+    color: #1E90FF; /*-----*/
 }
 
 
@@ -3525,7 +3532,7 @@ select.mobile-device {
 .resume .resume-item {
     padding: 0 0 20px 20px;
     margin-top: -2px;
-    border-left: 2px solid #b43e19;
+    border-left: 2px solid #1520A6;
     position: relative;
 }
 
@@ -3569,5 +3576,5 @@ select.mobile-device {
     left: -9px;
     top: 0;
     background: #fff;
-    border: 2px solid #97451f;
+    border: 2px solid #1520A6;
 }
